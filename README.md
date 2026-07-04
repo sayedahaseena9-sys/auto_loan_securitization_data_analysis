@@ -50,10 +50,17 @@ Cumulative Loss
 marginloss trend
 cumulative recoveries
 
-6.Monthly loss:
+6.Monthly loss:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/6.png
 gross loss vs recoveries
 payment trend
 monthly default trend
 net loss trend
+
+7.Stress testing dashboard:
+Scenario Slicer
+Base Case
+Moderate
+Severe
+Stressed ECL
 Bucket Movement
 Monthly Delinquency Trend
