@@ -72,7 +72,7 @@ Closing Balance
 Waterfall Chart
 Monthly Waterfall Trend
 
-9.Investor reporting dashboard:
+9.Investor reporting dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/9.png
 Pool Performance
 Default %
 Recovery %
@@ -81,5 +81,17 @@ Cash Collections
 Remaining Principal
 Rating Distribution
 Investor KPIs
+
+10.Securitization risk arena dashboard:
+Scenario Selector
+Risk Meter
+Portfolio Health Score
+Crisis Timeline
+Loss Gauge
+Stress Level Indicator
+Leaderboard
+Risk Challenge Cards
+Waterfall Impact
+Portfolio Survival Score
 Bucket Movement
 Monthly Delinquency Trend
