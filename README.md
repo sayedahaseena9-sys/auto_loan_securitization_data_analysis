@@ -43,24 +43,33 @@ Risk Matrix
 Scatter (PD vs LGD)
 waterfall value
 
-5.Vintage analysis:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/5.png
+5.Vintage analysis dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/5.png
 Vintage Curve
 Monthly Default Trend
 Cumulative Loss
 marginloss trend
 cumulative recoveries
 
-6.Monthly loss:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/6.png
+6.Monthly loss dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/6.png
 gross loss vs recoveries
 payment trend
 monthly default trend
 net loss trend
 
-7.Stress testing dashboard:
+7.Stress testing dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/7.png
 Scenario Slicer
 Base Case
 Moderate
 Severe
 Stressed ECL
+
+8.Waterfall analysis dashboard:
+Opening Balance
+Defaults
+Recoveries
+Write-offs
+Closing Balance
+Waterfall Chart
+Monthly Waterfall Trend
 Bucket Movement
 Monthly Delinquency Trend
