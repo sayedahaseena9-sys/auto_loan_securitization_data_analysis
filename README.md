@@ -63,7 +63,7 @@ Moderate
 Severe
 Stressed ECL
 
-8.Waterfall analysis dashboard:
+8.Waterfall analysis dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/8.png
 Opening Balance
 Defaults
 Recoveries
@@ -71,5 +71,15 @@ Write-offs
 Closing Balance
 Waterfall Chart
 Monthly Waterfall Trend
+
+9.Investor reporting dashboard:
+Pool Performance
+Default %
+Recovery %
+Yield
+Cash Collections
+Remaining Principal
+Rating Distribution
+Investor KPIs
 Bucket Movement
 Monthly Delinquency Trend
