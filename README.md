@@ -17,4 +17,20 @@ Channel Analysis
 State-wise Exposure
 Balance Distribution
 
-2.Portfolio risk dashboard:
+2.Portfolio risk dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/2.png
+kpi cards
+average EAD
+average PD
+average LGD
+IFRS stage distribution
+cibil score
+LTV current
+
+3.Deliquency dashborad:
+DPD Distribution
+Roll Rate
+Cure Rate
+Write-offs
+Repossessions
+Bucket Movement
+Monthly Delinquency Trend
