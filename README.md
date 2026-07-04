@@ -26,11 +26,21 @@ IFRS stage distribution
 cibil score
 LTV current
 
-3.Deliquency dashborad:
+3.Deliquency dashborad:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/3.png
 DPD Distribution
 Roll Rate
 Cure Rate
 Write-offs
 Repossessions
+
+4.IFRS 9 and ECL dashboard:
+Stage Distribution
+PD
+LGD
+EAD
+Expected Credit Loss
+Risk Matrix
+Scatter (PD vs LGD)
+waterfall value
 Bucket Movement
 Monthly Delinquency Trend
