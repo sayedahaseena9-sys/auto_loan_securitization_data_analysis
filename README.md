@@ -4,7 +4,7 @@ my final dashbard:
 https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/Auto%20Loan%20Securitization%20Dashboard.pbit
 https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/Auto%20Loan%20Securitization%20Dashboard.pbix
 
-## 1.Executive portfolio dashboard:(https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/1.png)
+## 1.Executive portfolio dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Executive%20portfolio%20dashboard.png
 KPI Cards
 Loan Balance
 ECL
@@ -27,7 +27,7 @@ Balance Distribution
 5.Chhattisgarh, Gujarat, and Goa have the highest outstanding balances and should be monitored closely.
 6.Most loans are issued for new vehicle purchases, indicating new vehicle financing dominates the portfolio.
 
-## 2.Portfolio risk dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/2.png
+## 2.Portfolio risk dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Portfolio%20risk%20dashboard.png
 kpi cards
 average EAD
 average PD
@@ -43,7 +43,7 @@ LTV current
 4.Average PD (0.08) and LGD (0.50) indicate moderate expected credit risk.
 5.The CIBIL score distribution is concentrated between 650–800, confirming that most borrowers have acceptable creditworthiness.
 
-## 3.Deliquency dashborad:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/3.png
+## 3.Deliquency dashborad:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Deliquency%20dashboard.png
 DPD Distribution
 Roll Rate
 Cure Rate
@@ -57,7 +57,7 @@ Repossessions
 4.Average PD (0.08) and LGD (0.50) indicate moderate expected credit risk.
 5.The CIBIL score distribution is concentrated between 650–800, confirming that most borrowers have acceptable creditworthiness.
 
-## 4.IFRS 9 and ECL dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/4.png
+## 4.IFRS 9 and ECL dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/IFRS%209%20%26%20ECL%20dashboard.png
 Stage Distribution
 PD
 LGD
@@ -73,7 +73,7 @@ waterfall value
 3.States such as Chhattisgarh and Kerala require higher provisions because of elevated expected losses.
 4.Scatter analysis shows higher PD values lead to larger ECL provisions, validating the IFRS 9 model.
 
-## 5.Vintage analysis dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/5.png
+## 5.Vintage analysis dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Vintage%20analysis%20dashboard.png
 Vintage Curve
 Monthly Default Trend
 Cumulative Loss
@@ -87,7 +87,7 @@ cumulative recoveries
 4.Recovery amounts increase before slowing toward portfolio maturity.
 5.Older loan vintages demonstrate higher cumulative losses than recently originated loans.
 
-## 6.Monthly loss dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/6.png
+## 6.Monthly loss dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Monthly%20loss%20dashboard.png
 gross loss vs recoveries
 payment trend
 monthly default trend
@@ -100,7 +100,7 @@ net loss trend
 4.Monthly default rates remain relatively stable with one temporary spike that warrants further investigation.
 5.Prepayments fluctuate throughout the year, affecting cash flow timing for investors.
 
-## 7.Stress testing dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/7.png
+## 7.Stress testing dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Stress%20testing%20dashboard.png
 Scenario Slicer
 Base Case
 Moderate
@@ -114,7 +114,7 @@ Stressed ECL
 4.Higher PD values combined with elevated LGD significantly increase portfolio risk.
 5.Stress testing identifies vehicle types and regions most sensitive to adverse economic conditions.
 
-## 8.Waterfall analysis dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/8.png
+## 8.Waterfall analysis dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Waterfall%20analysis%20dashboard.png
 Opening Balance
 Defaults
 Recoveries
@@ -129,7 +129,7 @@ Monthly Waterfall Trend
 3.Gross losses are partially offset by 4.43M recoveries, reducing the portfolio's net loss.
 4.Waterfall analysis clearly illustrates how each cash flow component impacts the final portfolio balance.
 
-## 9.Investor reporting dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/9.png
+## 9.Investor reporting dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Investor%20reporting%20dashboard.png
 Pool Performance
 Default %
 Recovery %
@@ -146,7 +146,7 @@ Investor KPIs
 4.Delinquency remains concentrated in the Current bucket, demonstrating good overall portfolio quality.
 5.Excess spread remains positive, providing additional protection against future credit losses.
 
-## 10.Securitization risk arena dashboard:https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/10.png
+## 10.Securitization risk arena dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Securitization%20risk%20arena%20dashboard.png
 Scenario Selector
 Risk Meter
 Portfolio Health Score
