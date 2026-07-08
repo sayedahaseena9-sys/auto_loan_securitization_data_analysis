@@ -4,6 +4,7 @@ my final dashbard:
 https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/Auto%20Loan%20Securitization%20Dashboard.pbit
 https://github.com/sayedahaseena9-sys/auto_loan_securitization_data_analysis/blob/main/Auto%20Loan%20Securitization%20Dashboard.pbix
 
+my excel work:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/loans.xlsx
 ## 1.Executive portfolio dashboard:https://github.com/ZethetaIntern/auto_loan_securitization_data_analysis/blob/main/Executive%20portfolio%20dashboard.png
 KPI Cards
 Loan Balance
